@@ -4,6 +4,7 @@ type PropsType = {
     titleId?:string,
     size?: number | string;
     weight?: "thin" | "medium" | "bold"
+    className?: string;
 }
 
 declare function SvgAbacus(_ref: PropsType): any;
