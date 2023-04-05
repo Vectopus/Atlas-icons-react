@@ -1,6 +1,6 @@
 {
   "name": "@vectopus/atlas-icons-react",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries",
   "main": "index.js",
   "scripts": {
