@@ -1,5 +1,5 @@
 type IconType = {
-    color: string;
+    color?: string;
     size?: number | string;
     weight?: "thin" | "medium" | "bold"
 }
