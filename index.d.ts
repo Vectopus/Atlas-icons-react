@@ -2,6 +2,7 @@ type IconType = {
     color?: string;
     size?: number | string;
     weight?: "thin" | "medium" | "bold"
+    className?: string;
 }
 
 
